@@ -3,6 +3,7 @@
 * [Extremo Wiki](README.md)
 * [client](client/README.md)
   * [Extremo\_fnc\_client\_init](client/extremo\_fnc\_client\_init.md)
+  * [Extremo\_fnc\_client\_initEventhandlers](client/extremo\_fnc\_client\_initeventhandlers.md)
 * [database](database/README.md)
   * [Extremo\_fnc\_database\_client](database/extremo\_fnc\_database\_client.md)
 * [gui](gui/README.md)
