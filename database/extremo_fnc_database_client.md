@@ -14,7 +14,7 @@ Parameters:
 2. [string](https://community.bistudio.com/wiki/String) - action
 3. varies see [examples](extremo\_fnc\_database\_client.md#examples)
 
-Return: boolen
+Return: [boolen](https://community.bistudio.com/wiki/Boolean)
 
 ### Examples
 
